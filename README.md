@@ -1,5 +1,9 @@
 # Data Analysis Basics Python
-데이터 분석 연습
+- 데이터 분석 연습
+- 2021.08
+
+--- 
+
 * Numpy_기본
     1. array 만들기
     2. numpy 활용
